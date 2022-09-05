@@ -1,2 +1,2 @@
 # Trendyol Bot
- TrendyolBotApp
+TrendyolBotApp
